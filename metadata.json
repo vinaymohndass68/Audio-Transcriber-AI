@@ -1,0 +1,7 @@
+{
+  "name": "Audio Transcriber AI",
+  "description": "An application to upload an audio file, identify its language, get a transcription using Gemini, and share the result.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
